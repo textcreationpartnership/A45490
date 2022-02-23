@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at the Church of St. Mary le Bow, to the Societies for Reformation of Manners, December 26, 1698 by John Hancock ...</title>
+            <author>Hancocke, John, d. 1728.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45490</idno>
+            <idno type="STC">Wing H642</idno>
+            <idno type="STC">ESTC R21383</idno>
+            <idno type="EEBO-CITATION">12226516</idno>
+            <idno type="OCLC">ocm 12226516</idno>
+            <idno type="VID">56536</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45490)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56536)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 631:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at the Church of St. Mary le Bow, to the Societies for Reformation of Manners, December 26, 1698 by John Hancock ...</title>
+                  <author>Hancocke, John, d. 1728.</author>
+               </titleStmt>
+               <extent>[6], 45 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B. Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Jeremiah V, 29 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56536:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd at the Church of St. <hi>Mary le Bow,</hi> TO THE <hi>SOCIETIES</hi> FOR <hi>Reformation of</hi> Manners, December 26. 1698.</p>
+            <p>By <hi>JOHN HANCOCK,</hi> D. D. Chaplain to His Grace the Duke of <hi>Bedford.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>B. Aylmer,</hi> at the <hi>Three Pigeons</hi> in <hi>Cornhil,</hi> 1699.</p>
+         </div>
+         <div type="to_the_societies_for_reformation">
+            <pb facs="tcp:56536:2"/>
+            <pb facs="tcp:56536:2"/>
+            <head>TO THE SOCIETIES FOR <hi>Reformation of</hi> Manners, In the Cities of <hi>London</hi> and <hi>Weſtminster.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Gentlemen,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Am ſenſible this Diſ<g ref="char:EOLhyphen"/>courſe is too mean to de<g ref="char:EOLhyphen"/>ſerve the good Opinion you ſeem'd to have of it, when you deſir'd it might be Print<g ref="char:EOLhyphen"/>ed.
+<pb facs="tcp:56536:3"/>However ſince you were pleas'd to think, it might be in any meaſure ſubſervient to that Noble Deſign you have in hand, I ſubmit to your Judgment; and ſuch as it is, I here preſent it to your and the Publick View. All I can ſay for it is, that I hope 'tis hearty (as I my ſelf am) for that good Work you have <g ref="char:V">Ʋ</g>ndertaken: Which that it may, through the Bleſſing of God, proſper in your Hands; that you may have all Incouragement from
+<pb facs="tcp:56536:3"/>the Civil Magiſtrate; that other Places may ſo far fol<g ref="char:EOLhyphen"/>low your Example, that not only this City, but the Na<g ref="char:EOLhyphen"/>tion, may find the happy Effects of your Pious Zeal; and that your ſelves may be rewarded for it, even in this World, as I doubt not you will be in another, is the earneſt Deſire and Prayer of,</p>
+                  <closer>
+                     <signed>
+                        <hi>Your Faithful Servant in the Lord,</hi> John Hancock.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:56536:4"/>
+            <epigraph>
+               <q>
+                  <bibl>JER. V. 29.</bibl>
+                  <p>Shall I not viſit for theſe Things? Shall not my Soul be avenged on ſuch a Nation as this?</p>
+               </q>
+            </epigraph>
+            <p>IN this Chapter the Prophet makes a very lively Repreſen<g ref="char:EOLhyphen"/>tation, and doleful Complaint, of the general defection of <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> from their Duty.</p>
+            <p>This he expreſſes firſt in general Terms. Ver. 1. <hi>Run ye to and fro through the ſtreets of Jeruſalem, and ſee now and know, and ſeek in the broad places thereof, if ye can find a</hi>
+               <pb n="2" facs="tcp:56536:5"/>
+               <hi>Man, if there be any that executeth Judgment, and I will pardon it.</hi>
+            </p>
+            <p>Which words, I ſuppoſe, muſt be underſtood as an Hyperbolical Expreſſion, of the great Wicked<g ref="char:EOLhyphen"/>neſs of that Age. That is, there were very few that lived a Reli<g ref="char:EOLhyphen"/>gious Life, in compariſon of the very great numbers that gave them<g ref="char:EOLhyphen"/>ſelves up to all Impiety.</p>
+            <p>And thoſe few that were Religi<g ref="char:EOLhyphen"/>ous, were ſo diſcouraged, and over<g ref="char:EOLhyphen"/>born by the reigning Impieties of the Times, that they durſt ſcarce appear; they were not to be found.</p>
+            <p>The Caſe was much the ſame with reſpect to Impiety then, as it was with reſpect to Idolatry in the time of <hi>Abab.</hi> The Prophet thought there were none that kept to the Worſhip of God, though God had reſerved to himſelf Seven
+<pb n="3" facs="tcp:56536:5"/>Thouſand that had not bowed the Knee to the Image of <hi>Baal.</hi>
+            </p>
+            <p>But though the Prophet could find no Religion in the Streets, and broad Places of <hi>Jeruſalem,</hi> among the Common People, he imputes this in ſome meaſure to their Igno<g ref="char:EOLhyphen"/>rance; yet it ſeem'd reaſonable he ſhould expect other Things among the more knowing and better ſort of People. Ver. 4, 5. <hi>Then I ſaid, Theſe are poor, they are fooliſh; for they know not the way of the Lord, nor the Judgment of their God. I will get me to the great Men, and will ſpeak unto them, for they have known the way of the Lord, and the Judgment of their God: But theſe have altogether broken the Yoke, and burſt the Bonds.</hi>
+            </p>
+            <p>'Tis ſad to hear, (and yet more ſad it ſhould be ſuffered,) the Oaths and dreadful Imprecations, that grate our Ears, as we walk the
+<pb n="4" facs="tcp:56536:6"/>Streets, from the Mouths of the meaneſt ſort of People; but 'tis ſome Excuſe that ſome of them perhaps know no better. But that the Rich, and wiſe, and Noble, that have more Knowledge, and better Breeding, ſhould ſtoop ſo low, as to be guilty of ſuch mean Vices, is a Wonder, and ought to be for a Lamentation. If ſuch will neither conſider their Obligations to God, to their Country, or to their own Honour: If they break the <hi>Yoke</hi> of God's Law, and <hi>burſt the Bonds</hi> of their great Obligations to him; they as well as others, muſt one day bear their own burthen.</p>
+            <p>Then the Prophet gives a black Roll of the Impieties of thoſe Times. Some of which I ſhall take notice of.</p>
+            <p>
+               <hi>Firſt,</hi> Their Idolatry, <hi>ver.</hi> 7. <hi>How ſhall I pardon thee for this? Thy Children have forſaken me, and
+<pb n="5" facs="tcp:56536:6"/>ſworn by them that are no Gods.</hi> God be thanked we have not yet ſo far forſaken God, as to ſwear by a falſe God, (or notwithſtanding the late Hopes of our Enemies,) to wor<g ref="char:EOLhyphen"/>ſhip the true God, in an Idolatrous way. But if falſe and vain Swear<g ref="char:EOLhyphen"/>ing, by the Name of the true God, be Crimes of the blackeſt dye, the one we ſee, and the other we have reaſon to fear, have got too great a footing among us.</p>
+            <p>
+               <hi>Secondly,</hi> Their Adultery, <hi>ver.</hi> 7, 8. <hi>When I had fed them to the full, they aſſembled themſelves by troops in the Harlots houſes.</hi> This I doubt is but too true a deſcription of our Times.</p>
+            <p>But we are called from the Thoughts of this with the ama<g ref="char:EOLhyphen"/>zing News of ſome among us, that are ſunk into the deepeſt mire with the very worſt of Heathens, as the Apoſtle gives their Character,
+<pb n="6" facs="tcp:56536:7"/>
+               <hi>Rom.</hi> 1. that are reſolved to be Wicked, not only in ſpight of Rea<g ref="char:EOLhyphen"/>ſon, and Religion, but of Nature too. If any more of theſe can be diſcovered, may they receive from the juſt Indignation of the Civil Magiſtrate, <hi>that Recompence of their Errour which is meet.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> To mention no more, He reflects upon their incorrigible<g ref="char:EOLhyphen"/>neſs under all God's dealings with them; neither his Judgments, nor his Mercies, had their kindly work upon them. Not his Judgments; <hi>ver.</hi> 3. <hi>Thou haſt ſtricken them, but they have not grieved; thou haſt con<g ref="char:EOLhyphen"/>ſumed them, but they have refuſed to receive Correction.</hi> Not his Mer<g ref="char:EOLhyphen"/>cies; <hi>ver.</hi> 24. <hi>Neither ſay they in their heart, Let us now fear the Lord our God, that giveth Rain, the for<g ref="char:EOLhyphen"/>mer and the latter Rain in his ſeaſon.</hi>
+            </p>
+            <p>This is too much our own Caſe. We ſee but little effect as to all the
+<pb n="7" facs="tcp:56536:7"/>various Diſpenſations of God to theſe Nations; neither his Mercies have as yet lead us, nor his Judg<g ref="char:EOLhyphen"/>ments frighted us unto Repentance.</p>
+            <p>So that we have juſt Reaſon to fear, be may ſay of us, as he did here of the <hi>Jews, Shall I not viſit for theſe things? Shall not my Soul be avenged on ſuch a Nation as this?</hi>
+            </p>
+            <p>
+               <hi>Shall I not viſit for theſe things?</hi>
+            </p>
+            <p>When at any time Sin and Impie<g ref="char:EOLhyphen"/>ty becomes common and almoſt uni<g ref="char:EOLhyphen"/>verſal; When it grows bold and impudent; When Men <hi>declare their Sin as Sodom, and hide it not;</hi> When they are ſo far depraved in their Judgments as to defend it, and are come to Sin upon Principles; When they ſcoff at Religion, and attempt by pouring the utmoſt Contempt upon it, to drive it out of the World, eſpecially when there is too general an inſenſibility of the De<g ref="char:EOLhyphen"/>bauchery
+<pb n="8" facs="tcp:56536:8"/>of the Times; we may think it high time for God to ap<g ref="char:EOLhyphen"/>pear in vindication of his own Ho<g ref="char:EOLhyphen"/>nour, from the Contempt of an un<g ref="char:EOLhyphen"/>godly World.</p>
+            <p>And we may be ſure, ſooner or later, he will do it. 'Tis very fit we ſhould expect this, whether we conſider the Declarations of his Word, or the Methods of his Pro<g ref="char:EOLhyphen"/>vidence.</p>
+            <p n="1">1. The Declarations of his Word. <hi>Solomon</hi> ſays, <hi>Righteouſneſs will exalt a Nation; but Sin is the Reproach,</hi> and will be the Ruine of <hi>any People.</hi> The Prophet <hi>Eſay</hi> tells the <hi>Jews,</hi> Iſa. 1. <hi>If they be willing and obedi<g ref="char:EOLhyphen"/>ent, they ſhall eat the Good of the Land; but if they refuſe and rebel, they ſhall be devoured with the Sword.</hi> But Scriptures to this purpoſe are ſo numerous, that 'tis needleſs to inſiſt upon them.</p>
+            <pb n="9" facs="tcp:56536:8"/>
+            <p>'Tis true the Sins and Impieties of wicked Men, have of themſelves (at leaſt many of them) a moſt per<g ref="char:EOLhyphen"/>nicious Influence upon the Publick Good. Saint <hi>James</hi> tells us, moſt of thoſe Wars and Confuſions, that infeſt the World, ſpring originally <hi>from Mens Luſts, that war in their Members.</hi> For Inſtance;</p>
+            <p>A prodigal and profuſe way of Living, when it grows in Faſhion, begets Poverty; that improves into Diſcontent; which often ends in ſome Publick Diſturbance. How often do Ambition and Covetouſ<g ref="char:EOLhyphen"/>neſs, upon very ſmall occaſions, di<g ref="char:EOLhyphen"/>ſturb Government, and deſtroy the Peace and Quiet of the World.</p>
+            <p>But if this were not ſo, as long as there is a juſt God in Heaven, the bold Impieties of Men on Earth, muſt meet with condign Puniſh<g ref="char:EOLhyphen"/>ment. Publick Debaucheries will ſeldom fail to draw down Publick Judgments.</p>
+            <pb n="10" facs="tcp:56536:9"/>
+            <p n="2">2. This is agreeable to the Me<g ref="char:EOLhyphen"/>thods of God's Providence. The Hiſtory of all Ages, is but one con<g ref="char:EOLhyphen"/>tinued Confirmation of this Truth. We find it has been ſo, and we may well conclude it will be ſo ſtill. We read in the Book of <hi>Judges,</hi> that when the <hi>Iſraelites</hi> ſin'd againſt God, he raiſed up the moſt con<g ref="char:EOLhyphen"/>temptible People to be their Op<g ref="char:EOLhyphen"/>preſſors. So that as it is very fit that God ſhould, ſo we ſee he has, and may be ſure ſooner or later he will, viſit for the Wickedneſs of a People.</p>
+            <p>Well if theſe Things be ſo, how juſtly may we of theſe Nations ex<g ref="char:EOLhyphen"/>pect the ſharpeſt Viſitation! How may we wonder at the Goodneſs and Patience of that God that is yet pleaſed to prolong our Tranquility.</p>
+            <p>God, after all his other Gracious Diſpenſations, has lately given us
+<pb n="11" facs="tcp:56536:9"/>an Happy Peace. He ſeems incli<g ref="char:EOLhyphen"/>ned to try us a little longer, whe<g ref="char:EOLhyphen"/>ther the milder Methods of his Mer<g ref="char:EOLhyphen"/>cy will work upon us to a general Repentance and Reformation.</p>
+            <p>But 'tis to be feared we ſhall do as we have often done before, not become the better, but rather the worſe, for his Mercy.</p>
+            <p>'Twas too obvious to obſerve, after our Deliverance from the late unhappy Civil Wars, pardon me if I ſay, we ran mad with our Joy; and too many of us, becauſe Reli<g ref="char:EOLhyphen"/>gion had been made a pretence by ſome, threw off all pretence to it. A ſad perverſion this of that Good<g ref="char:EOLhyphen"/>neſs of God, the proper End of which was to ingage us to Obe<g ref="char:EOLhyphen"/>dience.</p>
+            <p>I heartily wiſh our late Delive<g ref="char:EOLhyphen"/>rance, and our preſent Peace, may have a better influence upon us. As
+<pb n="12" facs="tcp:56536:10"/>yet God knows there is little ſign of it. Scepticiſm and Impiety go hand in hand, and 'tis to be feared, get ground upon us. If that of the Apoſtle <hi>Phil.</hi> 3. were ever true of any Age, I fear it is of this; <hi>Mens God is their Belly, their Glory in their Shame, they mind Earthly things.</hi> I wiſh our <hi>End</hi> may not be Deſtru<g ref="char:EOLhyphen"/>ction too.</p>
+            <p>We want not indeed, in this Age, an uſeful and practical way of Preaching, and ſuch as may recom<g ref="char:EOLhyphen"/>mend it ſelf to the Reaſon, as well as work upon the Paſſions of Man<g ref="char:EOLhyphen"/>kind. We have the great Things of another World lively laid before us, and the abſolute neceſſity of a good Life dayly preſt upon us.</p>
+            <p>But the Age is Proof againſt the Voice of the Charmer, charm he never ſo wiſely. We are boldly told by ſome, they look upon the great Things of our Religion but as
+<pb n="13" facs="tcp:56536:10"/>idle Tales, with publick allowance. And a great many others, though they do not ſpeak out, yet plainly live, as if they had the ſame Opi<g ref="char:EOLhyphen"/>nion of them.</p>
+            <p>So that I fear, Infidelity is ſpread further than we are aware of; and if there ſhould be thus a fault in the Spring, there is like to be no regu<g ref="char:EOLhyphen"/>lar Motion in the whole Machine. And no wonder if the generality of Men ſwim down the ſtream of Po<g ref="char:EOLhyphen"/>pular Wickedneſs, and follow a Multitude to do Evil.</p>
+            <p>In ſuch a Caſe as this, 'tis highly neceſſary to call in the Aſſiſtance of the Civil Magiſtrate, and 'tis very much his Intereſt, as well as Duty, to maintain the Cauſe of Religion, and to puniſh open and ſcandalous Impiety.</p>
+            <p>If the Terrors of the Lord will not prevail with Men to become
+<pb n="14" facs="tcp:56536:11"/>good Chriſtians, the Terrors of the Law may make them tolerable Men. And though the inflicting of Legal Penalties may not make Men ſo Good as they ſhould be, yet 'tis ſomething if it reſtrain them from being ſo bad as they would be.</p>
+            <p>Nor does this imply the weak<g ref="char:EOLhyphen"/>neſs and inſufficiency of Religion, that it needs the Support of the Civil Power; but only argues the Corruption of Humane Nature, that will not be kept in Bounds without it.</p>
+            <p>The Sun is not dark, though Men may ſhut their Eyes, and not ſee the Light of it: Nor are Things really ſweet to be accounted bitter, becauſe they may taſte ſo to ſome vitiated Palates.</p>
+            <p>The great Things of Religion are ſuch as are apt to work upon Rea<g ref="char:EOLhyphen"/>ſonable Men: But if Men, either
+<pb n="15" facs="tcp:56536:11"/>through Prejudice, do not believe, or through Careleſneſs do not con<g ref="char:EOLhyphen"/>ſider them, no wonder if they do not prevail upon them.</p>
+            <p>The laying Penalties upon plain and ſcandalous Sins, is ſo far from being unſuitable to the Nature of Religion, that it is a Debt the Ci<g ref="char:EOLhyphen"/>vil Power owes to the Honour of God, and the Peace of the World.</p>
+            <p>Saint <hi>Paul, Rom.</hi> 13. tells us, <hi>That Rulers are not a Terror to Good Works, but to the Evil; and that he is the Miniſter of God, a Revenger to execute Wrath upon him that doth Evil.</hi> That is, a good Ruler, one that anſwers the Deſign of his Of<g ref="char:EOLhyphen"/>fice, will be ſo.</p>
+            <p>How this can be, without the enacting and inflicting of ſome Pe<g ref="char:EOLhyphen"/>nalties, ſomething that is terrible to Humane Nature, is not eaſie to imagine. For the bare Command
+<pb n="16" facs="tcp:56536:12"/>of them, that we are ſure either cannot, or will not hurt us, is not very dreadful.</p>
+            <p>And here we may thankfully ac<g ref="char:EOLhyphen"/>knowledge our Happineſs, that the Law is yet a Guard to the Practice of Religion: And the Legiſlative Power hath given its Teſtimony, againſt Vice and Irreligion, by ma<g ref="char:EOLhyphen"/>king it Penal to be guilty of it. For this, I may refer you to the ma<g ref="char:EOLhyphen"/>ny Acts of Parliament made againſt Profaneneſs, particularly that againſt Swearing, and other Vices, ordered to be read, once a Quarter, in our Churches.</p>
+            <p>His Majeſty likewiſe hath been graciouſly pleaſed to ſhew His Zeal, for the work of Reformation, not only by iſſuing out His Royal Pro<g ref="char:EOLhyphen"/>clamations, ſtrictly requiring infe<g ref="char:EOLhyphen"/>riour Magiſtrates, to put the Penal Laws, againſt Vice and Profaneneſs, in execution: But by recommend<g ref="char:EOLhyphen"/>ing
+<pb n="17" facs="tcp:56536:12"/>it, more than once, to the Con<g ref="char:EOLhyphen"/>ſideration of the Parliament, to take yet a more effectual Courſe to ſtop the Growth of Irreligion.</p>
+            <p>This ſo needful work of Refor<g ref="char:EOLhyphen"/>mation therefore lies in a manner at our own doors.</p>
+            <p>Two Things therefore are requi<g ref="char:EOLhyphen"/>ſite in this Caſe.</p>
+            <list>
+               <item>1. That thoſe that have any Power or Authority ſhould Con<g ref="char:EOLhyphen"/>ſcientiouſly uſe it, to the Counte<g ref="char:EOLhyphen"/>nancing of Religion, and to the Puniſhment of Vice and Profane<g ref="char:EOLhyphen"/>neſs.</item>
+               <item>2. That all of us, in our ſeveral Stations, and according to our Op<g ref="char:EOLhyphen"/>portunities and Abilities, ſhould concur with them, and put our Hands to this good Work.</item>
+            </list>
+            <pb n="18" facs="tcp:56536:13"/>
+            <p>Under the Firſt Head, I muſt reckon Parents in the Family, and Inferiour Magiſtrates in the Com<g ref="char:EOLhyphen"/>monwealth.</p>
+            <p>As to Parents, I cannot forbear to ſay, I am apt to believe, that their Neglect in the Education of their Children, is one, at leaſt, of the moſt univerſal Cauſes of that Impiety that reigns among us. This (as ſome Phyſicians ſpeak of the Natural Body) is that Error in the firſt concoction, that is not to be throughly amended in the ſecond. When Families, that are the Ele<g ref="char:EOLhyphen"/>ments of the Body Politick, are ſo much neglected, and ſo far corrupt<g ref="char:EOLhyphen"/>ed, the Conſtitution of it muſt needs be very crazy. And on the contrary, did Parents take that Care, they ought to give their Children a timely ſence of Religion, of their Duty to God and Man, and <hi>bring them up in the Nurture and Admo<g ref="char:EOLhyphen"/>nition of the Lord,</hi> the work of the
+<pb n="19" facs="tcp:56536:13"/>Civil Magiſtrate would be in a great meaſure done to his Hand, and we ſhould need fewer Laws, and leſs Courage and Reſolution in the exe<g ref="char:EOLhyphen"/>cution of them.</p>
+            <p n="2">2. I will make bold to ſpeak a word to thoſe that are ſubordinate Magiſtrates in the State. That they would, with Zeal and Vi<g ref="char:EOLhyphen"/>gour, put thoſe good Laws we have in execution againſt the ſcandalous Vices of the Age. That they would take all Occaſions, and lay hold on Opportunities, to ſtop the Growth of Impiety and Irreligion: At leaſt that, if they think it not incumbent on themſelves to ſeek for Informations, they would readily and chearfully receive them, and not diſcourage thoſe whoſe Pious Zeal prompts them to be Inſtru<g ref="char:EOLhyphen"/>mental to bring Enormous Offen<g ref="char:EOLhyphen"/>ders to Puniſhment. And that they would take care to live ſuch inno<g ref="char:EOLhyphen"/>cent and inoffenſive Lives them<g ref="char:EOLhyphen"/>ſelves,
+<pb n="20" facs="tcp:56536:14"/>that they may ſet a good Face upon the Puniſhment of Of<g ref="char:EOLhyphen"/>fenders.</p>
+            <p>But I will not inſiſt too long on this. I ſhall only very briefly re<g ref="char:EOLhyphen"/>mind them, how much the Honour of God, and of the Government, is concerned in this matter. That they are under the Oath of God. That the execution, and by conſe<g ref="char:EOLhyphen"/>quence, the good effect of thoſe wholſome Laws we have againſt Profaneneſs, lyes in a manner whol<g ref="char:EOLhyphen"/>ly in their Hands, and the miſcar<g ref="char:EOLhyphen"/>riage will, in a great meaſure, lye at their Doors. That they have an Opportunity of doing an act of the greateſt Charity to the Publick; nay, and as it may happen, to the Offenders themſelves. And laſtly, the immortal Honour that will ac<g ref="char:EOLhyphen"/>crue to themſelves. If they ſigna<g ref="char:EOLhyphen"/>lize themſelves by their Zeal in this good Work, not only this, but the
+<pb n="21" facs="tcp:56536:14"/>next Generation, may riſe up, and call them bleſſed.</p>
+            <p n="2">2. It is the Duty of every one of us, in our ſeveral Stations, to put our helping Hand to this good Work.</p>
+            <p>And that we may be the better induced to do this in good earneſt, let us be deeply ſenſible of the Sins of the Times. Let us often think how ſad the conſequence will be, of ſuch a general defection from the Duties of Religion. Let us be heartily ſorry we can do no more toward the Work of Reformation. 'Twas not below <hi>David,</hi> though a King, even to weep for the Wick<g ref="char:EOLhyphen"/>edneſs of other Men. If we have any ſence of Piety to God, we can<g ref="char:EOLhyphen"/>not but be heartily concern'd at his Diſhonour. If we have any Cha<g ref="char:EOLhyphen"/>rity for Men, it cannot but grieve us to ſee them running ſo faſt, in the ready way, to Ruine and De<g ref="char:EOLhyphen"/>ſtruction.
+<pb n="22" facs="tcp:56536:15"/>If we have any concern for the Publick, we muſt needs be apprehenſive of the Danger we are in, to be overwhelm'd by theſe Floods of Ungodlineſs.</p>
+            <p>If we could do nothing elſe, yet we ſhould, at leaſt, ſecretly bewail the Impieties of the Times we live in. But this inward ſence will na<g ref="char:EOLhyphen"/>turally prompt us to do our beſt, not only to ſtem the tide of Sin our ſelves, but to turn it towards a Re<g ref="char:EOLhyphen"/>formation.</p>
+            <p n="1">(1.) Then let us make a free, open, publick, and avowed Profeſ<g ref="char:EOLhyphen"/>ſion of the Truths and Rules of our Religion. We need not be aſhamed of the Goſpel of Chriſt, while we are ſure, it is the Power of God unto Salvation. While we have both the Law of God and Man to juſtifie us, why ſhould not we be as bold for Religion, as the moſt profeſt and impudent Sinner
+<pb n="23" facs="tcp:56536:15"/>can be againſt it? How indecent is it, while Sin puts on a Whores Forehead, that Religion ſhould creep into a Corner.</p>
+            <p>Miſtake me not, I am not now perſwading you to pretend to more than you have, to make an Hypo<g ref="char:EOLhyphen"/>critical and Phariſaical Pretence to Piety, but only that you would openly avow the Obligations that lye upon you to an Holy Life. And therefore,</p>
+            <p n="2">(2.) Be ſure your Practice keep pace with your Profeſſion, and that you really be what you pretend to be, Good Chriſtians; and make this appear before the World in the whole tenour of your Conver<g ref="char:EOLhyphen"/>ſation.</p>
+            <p>Our Bleſſed Saviour, who blames the <hi>Phariſees,</hi> that they did all their Works to be ſeen of Men (and 'twas no better than Hypocriſie,
+<pb n="24" facs="tcp:56536:16"/>while their whole Deſign was the Praiſe of Men) yet in another place bids us, <hi>Let our Light ſo ſhine be<g ref="char:EOLhyphen"/>fore Men, that they may ſee our good Works, and glorifie our Father which is in Heaven.</hi> That is, be ſo ſtrict<g ref="char:EOLhyphen"/>ly Holy, that the World cannot chuſe but take Notice of it; tho' for any value we ſet upon the Praiſe of Men, we may not care much whether they do or no.</p>
+            <p>We ſee Examples have a mighty Power and Influence upon the Lives of Men. They are apt <hi>to follow a Multitude,</hi> though it be <hi>to do Evil.</hi> O that we could once ſee it as Fa<g ref="char:EOLhyphen"/>ſhionable to be Vertuous and Reli<g ref="char:EOLhyphen"/>gious, as it has too long been to be Looſe and Vicious; or at leaſt, Ne<g ref="char:EOLhyphen"/>gligent and Lukewarm. Let us do God and Religion, and our ſelves, the Honour, (if I may ſo ſpeak,) to begin the Mode, and do our beſt to bring Religion into Faſhion.</p>
+            <pb n="25" facs="tcp:56536:16"/>
+            <p>And who can tell how far ſome conſiderable number of Religious Examples, ſhining as Lights in the midſt of this crooked and perverſe Generation might enlighten the World.</p>
+            <p>And though there might ſome Hypocriſie creep in, yet methinks that is much to be preferred before open Profaneneſs; and 'twere bet<g ref="char:EOLhyphen"/>ter that God and Religion ſhould be (though it were but ſeemingly) honour'd, by ſome Pretenders to Religion, than openly affronted by Profane and Looſe Men.</p>
+            <p>Let us then by an open and a<g ref="char:EOLhyphen"/>vowed Profeſſion, and Practice of a ſubſtantial and unaffected Piety, de<g ref="char:EOLhyphen"/>clare againſt the Wickedneſs of the Age, and by our Examples, at leaſt, lead the way to a Reformation.</p>
+            <p n="3">(3.) Let us by our Advice, Ad<g ref="char:EOLhyphen"/>monition and Reproof, do what we
+<pb n="26" facs="tcp:56536:17"/>can to reform others too. 'Tis pity this is ſo much diſuſed, that it is almoſt counted a piece of Rude<g ref="char:EOLhyphen"/>neſs, to make any approaches to<g ref="char:EOLhyphen"/>wards it. This Fraternal Correp<g ref="char:EOLhyphen"/>tion is very well conſiſtent with Civility, and is an act of the great<g ref="char:EOLhyphen"/>eſt Charity too. <hi>Lev.</hi> 19.17. <hi>Thou ſhalt not hate thy Brother in thine Heart: Thou ſhalt in any wiſe rebuke thy Neighbour, and not ſuffer Sin up<g ref="char:EOLhyphen"/>on him.</hi> Not to rebuke him, is to ſuffer Sin upon him; and this is in effect to hate him.</p>
+            <p>Should we ſee our Brother infect<g ref="char:EOLhyphen"/>ed with a dangerous Diſeaſe, it would be very uncharitable not to warn him of it. Should we ſee him running on a Precipice, Huma<g ref="char:EOLhyphen"/>nity would oblige us to ſtop his courſe. And yet we can ſee him infected with the mortal Plague of Sin, and running on the Precipice of Eternal Deſtruction, and not kindly admoniſh him of his Danger.</p>
+            <pb n="27" facs="tcp:56536:17"/>
+            <p>There is ſcarce any one with whom we converſe, but when there is occaſion, we might this way be ſerviceable to Religion. If he be an Inferiour we might rebuke him ſharply. If he be an Equal, we might admoniſh him freely as a Brother. If he be a Superiour, we might at leaſt humbly intreat him as a Father. And this practice would no doubt give ſome check to Sin and Wickedneſs.</p>
+            <p>But it muſt be confeſt, that it is not all Sinners that are fit Objects of this compaſſionate Admonition. There are many too hardy to be dealt with by ſuch mild and gentle Methods. Our Saviour, who no doubt deſigned we ſhould take all prudent and likely ways to reform our Brother, yet bids us not to caſt our Pearls before Swine, leſt they trample them under their feet.</p>
+            <pb n="28" facs="tcp:56536:18"/>
+            <p>This is, I doubt, the Caſe with too many; and then it very well becomes us to tell it to the Civil Magiſtrate, whom the Law im<g ref="char:EOLhyphen"/>powers and requires to puniſh Evil<g ref="char:EOLhyphen"/>doers.</p>
+            <p>'Tis true, the Name of Informer ſounds ſomewhat odious, and may ſeem not very agreeable to the Spi<g ref="char:EOLhyphen"/>rit and Temper of a Chriſtian. And indeed to lye at catch, to inſnare our Brother, in ſome minuter things that the Law has made Penal, where the Honour of God, and the Good of Society, are not much con<g ref="char:EOLhyphen"/>cern'd, is to be condemned.</p>
+            <p>But there is a great difference be<g ref="char:EOLhyphen"/>tween thoſe Things that have nei<g ref="char:EOLhyphen"/>ther Good nor Evil in them, but as the Law commands or forbids them, and thoſe that are Evil in them<g ref="char:EOLhyphen"/>ſelves. Again, there is a conſide<g ref="char:EOLhyphen"/>rable difference among thoſe things
+<pb n="29" facs="tcp:56536:18"/>that are Evil in themſelves, ſome are more private, and chiefly affect the Perſon that commits them; o<g ref="char:EOLhyphen"/>thers more immediately tend to de<g ref="char:EOLhyphen"/>bauch others, affect Society, and ſpread Irreligion. Again, ſome Sins are committed more openly, and conſequently are a greater Scandal to Religion, Diſhonour to God, and Affront to Authority.</p>
+            <p>Now in groſs and enormous Sins, eſpecially when they are committed openly, and ſo are a greater Scandal to Religion, when they grow bold and are often repeated, when they ſpread and grow infectious; then 'tis abſolutely neceſſary, by Tempo<g ref="char:EOLhyphen"/>ral Puniſhments, to put a ſtop to them. And 'tis for the Honour of God, for the Good of Society, for the Safety of other Men, nay, and may be for the Good of the Offen<g ref="char:EOLhyphen"/>ders themſelves, that they come un<g ref="char:EOLhyphen"/>der the Laſh of the Law. And 'tis well becoming the Piety of a Chri<g ref="char:EOLhyphen"/>ſtian,
+<pb n="30" facs="tcp:56536:19"/>to be Inſtrumental in bringing them under the Inflictions of Legal Puniſhments.</p>
+            <p>Indeed common Swearers, noto<g ref="char:EOLhyphen"/>rious Drunkards, Adulterers, and other ſuch like, are moſtly got be<g ref="char:EOLhyphen"/>yond all milder Methods: They are many times ſet in the Seat of the Scorners; they deſpiſe and laugh at ſober Admonitions, and there is no other way to deal with them, but by touching them in their moſt ſenſible part. Por if they can but ſave their Bodies and Eſtates, they have little care of their Souls.</p>
+            <p>Now it may be an act of Chari<g ref="char:EOLhyphen"/>ty to make ſuch People ſmart for their Sins. When they are ſtopt in the career of their Luſts, it may ſet them a thinking of their Folly, and bring them to a better Mind. Or if it do not, it will at leaſt be ſome reſtraint upon their Wickedneſs.</p>
+            <pb n="31" facs="tcp:56536:19"/>
+            <p>However this (as I have partly hinted before) is neceſſary upon ma<g ref="char:EOLhyphen"/>ny other accounts.</p>
+            <p>It is for the Good of the Body Politick that ſuch noxious Humours may be purged out, or kept under, that the whole Maſs of Blood be not corrupted. 'Tis for the Honour of God that Juſtice ſhould be done upon ſuch open and notorious Sin<g ref="char:EOLhyphen"/>ners as have highly affronted him, and diſparaged Religion. 'Tis ne<g ref="char:EOLhyphen"/>ceſſary to bear Teſtimony againſt ſuch crying Sins, that we become not partakers with them; and if poſſible may prevent thoſe heavy Judgments of God, that we may juſtly fear may be doomed againſt the Nation for them, and we are ſure are juſtly deſerved by them.</p>
+            <p>'Tis further to be conſidered that moſt Men allow themſelves the li<g ref="char:EOLhyphen"/>berty of appealing to the Civil Ma<g ref="char:EOLhyphen"/>giſtrate, upon every little and tri<g ref="char:EOLhyphen"/>fling
+<pb n="32" facs="tcp:56536:20"/>Intereſt that concerns them<g ref="char:EOLhyphen"/>ſelves: If their Neighbour but touch their Bodies, they call it an Aſſault and Battery; or if he call them an hard Name, or give them a diſparaging or reviling Word, they muſt preſently have the Peace, or the Good Behaviour, or bring an Action againſt him, or, it may be, ſend him a Challenge, for Satisfa<g ref="char:EOLhyphen"/>ction: But the Sacred Name of God may be daily profaned by Oaths and Helliſh Imprecations, his Ma<g ref="char:EOLhyphen"/>jeſty affronted by the moſt horrid Blaſphemies; and if any call for Juſtice on ſuch impudent Sinners, there are enough will think him more buſie than wife in ſo doing. This is the groſſeſt partiality, and I doubt ſuch Mens Judgments are too much brib'd and byaſs'd by their Luſts.</p>
+            <p>I would ask ſuch Men; do they indeed believe it fit the Magiſtrate ſhould let every one do what is
+<pb n="33" facs="tcp:56536:20"/>Good in his own Eyes, affront God and Religion as he pleaſes?</p>
+            <p>If it be a Pious Act in the Le<g ref="char:EOLhyphen"/>giſlative Power to Enact Laws for the Guard of Religion; and in the King, to make choice of ſuch Sub<g ref="char:EOLhyphen"/>ordinate Magiſtrates as will be zea<g ref="char:EOLhyphen"/>lous in the execution of them; and in ſuch Magiſtrates impartially with<g ref="char:EOLhyphen"/>out Fear or Favour, to inflict the Penalties by Law appointed on Of<g ref="char:EOLhyphen"/>fenders when Information is given; it muſt equally be ſo in any private Man to give ſuch Information: For without Information given, there can be none, or very little, execu<g ref="char:EOLhyphen"/>tion of the Law; and without that, 'tis all one as if neither Laws were made, nor Magiſtrates appointed for that purpoſe. Well then, this work of informing againſt notorious Sin<g ref="char:EOLhyphen"/>ners is ſo far from being to be bla<g ref="char:EOLhyphen"/>med, that (if I may make bold to ſay ſo) I think it a defect in our Law, that it is not made Penal not
+<pb n="34" facs="tcp:56536:21"/>to give Information. We know it is ſo in caſes of Treaſon; he that does not diſcover it, is ſo far a par<g ref="char:EOLhyphen"/>taker in it, as to be guilty at leaſt of Miſpriſion of it.</p>
+            <p>If we were as truly concern'd for the Honour of God, as we juſtly are for the Honour and Safety of the King, methinks there would ſome ſuch thing be done. And eve<g ref="char:EOLhyphen"/>ry one that hears the horrid Oaths and Imprecations that are ſo com<g ref="char:EOLhyphen"/>mon among us, that knows of thoſe that haunt naughty Houſes, or thoſe that make a practice of carouſing in Taverns or Ale-houſes when they ſhould be at Church, ſhould be lia<g ref="char:EOLhyphen"/>ble to ſome ſevere Penalties, if they do not give in Information.</p>
+            <p>It were to be wiſh'd ſome ſuch Courſe could be taken, that a Pious and Sober Man might come in Company, walk the Streets, and go about his Buſineſs, without hear<g ref="char:EOLhyphen"/>ing
+<pb n="35" facs="tcp:56536:21"/>God and Religion ſo impudent<g ref="char:EOLhyphen"/>ly affronted as uſually they are.</p>
+            <p>But alas how ſhall this be done? What ſingle Man dares undertake ſo hard a Task, or make any at<g ref="char:EOLhyphen"/>tempt towards a Reformation? When the Offenders are ſo many, the work of reforming like to meet with the ſpight and obloquy of the Bad, the Cenſure of ſome of the better fort, and the Approbation and Incouragement of ſo very few; when there is ſo general a Slackneſs in the Magiſtrates, and ſuch In<g ref="char:EOLhyphen"/>ſenſibility in the People, as to the Work of Reformation, what ſhall we think of it?</p>
+            <p>This Work, or Trade, of Refor<g ref="char:EOLhyphen"/>mation (pardon me if I call it ſo; though 'twill be no gainful one to them that take it up) is ſo new, and out of the common Road, 'tis like to meet with ſo much oppoſi<g ref="char:EOLhyphen"/>tion from the Devil's Factors, and
+<pb n="36" facs="tcp:56536:22"/>requires ſo great a ſtock of Zeal, and Chriſtian Courage and Reſolu<g ref="char:EOLhyphen"/>tion, that 'tis never like to thrive in a few ſingle Hands: If ever it be carried o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to purpoſe, it muſt be by a Company.</p>
+            <p>What I have already ſaid, abun<g ref="char:EOLhyphen"/>dantly juſtifies the Pious Zeal of thoſe, in and about this City, that have thought of this Expedient, and are in ſeveral Societies combined together for the carrying on of ſo good a Work.</p>
+            <p>We hope this has, and will, at leaſt in ſome meaſure, ſtrike a damp on the daring Impiety of the Times.</p>
+            <p>The good Example of thoſe who have already begun this Work, may not only incourage others to joyn in it, but may in time ſpread it ſelf throughout the Nation. And 'tis to be hoped the good Effects of ſuch Religious Combinations as theſe,
+<pb n="37" facs="tcp:56536:22"/>will recommend them, in a little time, even to thoſe who have been a little jealous of what might be the Conſequence of them.</p>
+            <p>It is apparent enough there is great need of this, or ſome ſuch Ex<g ref="char:EOLhyphen"/>pedient, to give check to the growth of Debauchery among us.</p>
+            <p>If I be not much miſtaken, there is a ſort of Men that are not only reſolved to give themſelves up to all manner of Wickedneſs, but make it their Buſineſs to proſelite all they can to their Irreligion, and to make all they converſe with as Bad as themſelves.</p>
+            <p>I have been told there are ſome Clubs in this City, where the very profeſt Deſign of their Meeting is, by obſcene Diſcourſe and other ways, to promote Lewdneſs and Debau<g ref="char:EOLhyphen"/>chery. Theſe (if it be true,) are Deviliſh Combinations indeed; and
+<pb n="38" facs="tcp:56536:23"/>'tis high time, for thoſe that have a true Zeal for God and for Reli<g ref="char:EOLhyphen"/>gion, to joyn their Hearts and Hands to break theſe Bonds of Wickedneſs.</p>
+            <p>Give me leave, before I conclude, to give a word of Advice to thoſe of you that are entered into any ſuch Society for Reformation, and it ſhall be briefly this.</p>
+            <p n="1">1. That you would be very care<g ref="char:EOLhyphen"/>ful how you live your ſelves. The World will have their Eye upon you: And there will be thoſe that will watch for your halting.</p>
+            <p>How much would it diſhonour God, diſparage your ſelves, and hinder that good Work you go a<g ref="char:EOLhyphen"/>bout, if any of you, that pretend to reform others, ſhould at any time be guilty of the ſame Crimes, or as bad your ſelves?</p>
+            <pb n="39" facs="tcp:56536:23"/>
+            <p n="2">2. That you would joyn Pru<g ref="char:EOLhyphen"/>dence with your Zeal. Perhaps ſome would think it more prudent to let the whole Work alone; but this, I hope, you do not think is my meaning: But that you take care to go no further than the Law will back you; and that you would manage every circumſtance of your Proceedings with as much Caution and Diſcretion, as is conſiſtent with the doing of the Work you go about.</p>
+            <p n="3">3. That you be Impartial in this Buſineſs, as to Perſons and Parties; and that in your whole procedure you make it appear, as far as may be, that it is not Intereſt or Facti<g ref="char:EOLhyphen"/>on, or private Grudges and Re<g ref="char:EOLhyphen"/>ſentments, by which you are acted, but by a true and diſorder Zeal for God, for Religion, and the Good of your Country; yea, and even of the Offenders themſelves.</p>
+            <pb n="40" facs="tcp:56536:24"/>
+            <p n="4">4. When you have done this, that you would be Humble and Modeſt, and not preſently think too highly of your ſelves; nor deſpiſe others, (ſo they live well,) as Men of no Religion, becauſe they are not come up to your pitch, or do not ſhew their Zeal for Religion in the ſame way with your ſelves; (nay, tho' they ſhould ſeem a little jealous of your Societies,) but be content that time ſhould ſhew (as I hope it will) the Uprightneſs of your Intentions, and the Wiſdom of your Under<g ref="char:EOLhyphen"/>takings.</p>
+            <p>While you obſerve theſe, and the like Cautions, that your Chriſtian Prudence may dictate to you, go on in the Name and Strength of God, and be not diſcouraged by all the Difficulties you are like to meet in your way to Reformation.</p>
+            <pb n="41" facs="tcp:56536:24"/>
+            <p>The Honour of God, and the Good of Men, the promoting of Religion, and the Safety of your Country (Things ſo nearly concern'd in this Work of Publick Reforma<g ref="char:EOLhyphen"/>tion) are ſuch Great and Glorious Things, as will make an ample amends for all the Expence of Coſt or Pains you can be at in the pur<g ref="char:EOLhyphen"/>ſuit of it, and for all the Reproach and Obloquy you can meet with for it.</p>
+            <p>And ſuch you muſt expect to meet with; and therefore ſhould make account of it, and prepare for it, and not over-much value what Men may ſay of you.</p>
+            <p>Some perhaps will call you buſie<g ref="char:EOLhyphen"/>bodies; others will tell you 'tis a mean and diſparaging Thing to turn Informers; a third ſort will think you ſurly and ill-natur'd Men.
+<pb n="42" facs="tcp:56536:25"/>Theſe, and the like truly ill-natur'd Imputations, you muſt expect to meet with, and prepare your ſelves to bear.</p>
+            <p>But while you are conſcious to your ſelves, that what you do is not out of any delight in the Suf<g ref="char:EOLhyphen"/>ferings of other Men, nor with an Eye to any by and baſe Intereſt of your own, but out of pure Zeal for God and Vertue, and Charity to Men, and out of a due ſence of the odiouſneſs and danger of thoſe hor<g ref="char:EOLhyphen"/>rid Impieties that reign among us; the Conſcience of this your Since<g ref="char:EOLhyphen"/>rity will bear you up under the ob<g ref="char:EOLhyphen"/>loquy and oppoſition of any that ſhall appear againſt you, and you will even rejoyce, as we read the Apoſtles did, if you ſhould ſuffer Shame for the Name of God, and the ſake of Religion.</p>
+            <pb n="43" facs="tcp:56536:25"/>
+            <p>If you go on couragiouſly in this Work, 'tis to be hoped it may be a good ſtep to a General Reforma<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Or if the Wickedneſs of the Age be grown too big for that, it may abate the Impudence of Sin, and drive the Works of Darkneſs (where if any where, they ought to be,) into private corners, that Wicked<g ref="char:EOLhyphen"/>neſs may not any longer, as it has too long done, ride triumphant through our Streets And this will prevent a great deal of the Scandal of it, and be a guard and ſecurity to that little Religion that is yet left among us.</p>
+            <p>Or if this cannot be done, it will be a publick Teſtimony againſt the Wickedneſs of the Age, and we hope may, in part, appeaſe the Wrath of God, and for ſome lon<g ref="char:EOLhyphen"/>ger
+<pb n="44" facs="tcp:56536:26"/>time prevent his heavy Judg<g ref="char:EOLhyphen"/>ments upon the Nation.</p>
+            <p>Or if the Decree be gone out a<g ref="char:EOLhyphen"/>gainſt us, and the Caſe be with us as it was with <hi>Judah,</hi> that the Re<g ref="char:EOLhyphen"/>formation attempted in the Reign of <hi>Joſiah,</hi> could not avert the De<g ref="char:EOLhyphen"/>ſtruction doom'd againſt them for their former Wickedneſs: Yet it may be hoped, thoſe that have ſo vigorouſly appear'd for God and Religion, may deliver their own Souls by their Righteouſneſs.</p>
+            <p>Or if ſuch an overflowing Scourge muſt paſs through the Land, as will involve the beſt in the com<g ref="char:EOLhyphen"/>mon Ruin, thoſe that have firſt re<g ref="char:EOLhyphen"/>form'd themſelves, and done what they could in their ſeveral Stations to reform others too, will have the Comfort of it in the Day of Viſi<g ref="char:EOLhyphen"/>tation. Such Good Men will have an inward Calm and Serenity a<g ref="char:EOLhyphen"/>midſt
+<pb n="45" facs="tcp:56536:26"/>the greateſt outward Trou<g ref="char:EOLhyphen"/>bles here, and their Pious Zeal will meet with an abundant Recom<g ref="char:EOLhyphen"/>pence in the World to come, from that God in whoſe Cauſe they have appeared. To Him be all Ho<g ref="char:EOLhyphen"/>nour, and Glory, now and for ever<g ref="char:EOLhyphen"/>more. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
